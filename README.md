@@ -1,6 +1,6 @@
 # Data-Science-Nanodegree
 
-In the first lesson (number 1 to 9b notebooks) I learned working with data and prepare it for fitting into our model. In the real world projects the data that we collect would not be without missing values. We want a model that predicts the correct results and these values play an important role in our outcome result of our model. Ommiting the missing(Nan) values is not a promised way to a correct prediction. So, we should have a proper way to deal with the missing values. Here is the process that I worked on to get a better results with wrangling the data.
+In the first lesson (number 1 to 9b notebooks) I learned working with data and prepare it for fitting into our model. In the real world projects the data that we collect would not be without missing values. We want a model that predicts the correct results on a non-trained data and these values play an important role in our outcome result of our model. Ommiting the missing(Nan) values is not a promised way to a correct prediction. So, we should have a proper way to deal with the missing values. Here is the process that I worked on to get a better results from our model with wrangling the data.
 
 ## 1- A Look at the Data.ipynb:
 
